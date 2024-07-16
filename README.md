@@ -2,7 +2,8 @@
 
 Esta aplicación de escritorio, desarrollada en Python, crea un tablero flotante con accesos directos a diversas aplicaciones. Utiliza la biblioteca PyQt5 para la interfaz gráfica y permite ejecutar comandos específicos o abrir URLs al hacer clic en los botones correspondientes.
 
-![image](https://github.com/user-attachments/assets/f20c40a2-d3c9-45b2-9fc2-2520d82187f6)
+![image](https://github.com/user-attachments/assets/49095593-719e-42af-a341-6b934502218a)
+
 
 ## Características
 
